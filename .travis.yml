@@ -14,7 +14,7 @@ deploy:
     region: "us-east-2"
     app: "doomias_docker-react"
     env: "DoomiasDockerReact-env"
-    bucket_name: "DoomiasDockerReact-env"
+    bucket_name: "elasticbeanstalk-us-east-2-420014178406"
     bucket_path: "doomias_docker-react"
     on:
         branch: master
